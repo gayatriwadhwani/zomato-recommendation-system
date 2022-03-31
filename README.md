@@ -10,5 +10,5 @@ Bengaluru in India being one such city has more than 12,000 restaurants with res
 The aim is to create a content-based recommender system in which when we will write a restaurant name, the Recommender system will look at the reviews of other restaurants, and the System will recommend us other restaurants with similar reviews and sort them from the highest-rated.
 
 
-**#Dataset
-Note: Download the Banglore datset from Kaggle (https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) 
+**Dataset**
+**Note:** Download the Banglore datset from Kaggle (https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) 
