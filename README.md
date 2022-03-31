@@ -11,4 +11,4 @@ The aim is to create a content-based recommender system in which when we will wr
 
 
 **Dataset**
-**Note:** Download the Banglore datset from Kaggle (https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) 
+**Note:** Download the Banglore city dataset from Kaggle (https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) 
